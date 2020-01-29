@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Homework4-MovieTutorial.csproj",
+  "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Homework4-MovieTutorial.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,78 +2961,78 @@
   "RootNamespace": "MovieReviews",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Create.cshtml",
-      "TargetPath": "Pages\\Movies\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\DeleteReview.cshtml",
-      "TargetPath": "Pages\\Movies\\DeleteReview.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Delete.cshtml",
-      "TargetPath": "Pages\\Movies\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Review.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Review.cshtml",
       "TargetPath": "Pages\\Movies\\Review.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Edit.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\DeleteReview.cshtml",
+      "TargetPath": "Pages\\Movies\\DeleteReview.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
       "TargetPath": "Pages\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Details.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
       "TargetPath": "Pages\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorMovie\\Pages\\Movies\\Index.cshtml",
-      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FilePath": "c:\\Users\\joann\\Documents\\School\\2020 Spring\\Software Devel\\Assignment3\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
